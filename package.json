@@ -1,0 +1,19 @@
+{
+  "name": "flags",
+  "version": "1.0.0",
+  "description": "oxguy3/flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cause-of-America/flags.git"
+  },
+  "author": "oxguy3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cause-of-America/flags/issues"
+  },
+  "homepage": "https://github.com/Cause-of-America/flags#readme"
+}
